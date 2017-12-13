@@ -1,0 +1,7 @@
+DirectoryIndex c50000.png
+
+RewriteEngine On
+RewriteBase "/shed"
+RewriteRule "^([0-9a-f]{6})$" $1.png
+
+ErrorDocument 404 /shed/generate.rb
