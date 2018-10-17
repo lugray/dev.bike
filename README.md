@@ -1,11 +1,11 @@
-# dev.bike/shed
+# bikeshed.ugray.ca/shed
 
 Because why not?
 
-https://dev.bike/shed:
+https://bikeshed.ugray.ca/shed/:
 
-![https://dev.bike/shed](https://dev.bike/shed)
+![https://bikeshed.ugray.ca/shed/](https://bikeshed.ugray.ca/shed/)
 
-https://dev.bike/shed/008800:
+https://bikeshed.ugray.ca/shed/008800:
 
-![https://dev.bike/shed/008800](https://dev.bike/shed/008800)
+![https://bikeshed.ugray.ca/shed/008800](https://bikeshed.ugray.ca/shed/008800)
